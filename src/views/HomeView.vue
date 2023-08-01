@@ -220,7 +220,7 @@
           <h4 style="margin-right: -30px;font-size: 16px;font-weight: 600;">
             در صورتیکه فرمول نویسی برای باید انجام شود
           </h4>
-          <img class="ms-10" src="../assets/icon/icon 2.png" height="32" width="32" alt="برنامه"/>
+          <img class="ms-10" src="../assets/icon/icon14.png" height="32" width="32" alt="برنامه"/>
         </v-row>
 
         <v-row justify="end" align="end">
@@ -232,7 +232,7 @@
 
 
                 <v-row justify="end" align="end" style="margin: 10px">
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#5AC8F6"
                             style="border: 3px solid #1D59B3; margin: 10px;grid-row: 1;">
                       <p class="text-center" style="font-weight: bold;font-size: 20px;color:#1D59B3;margin-top: 10px">
@@ -246,21 +246,21 @@
                         6</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#5AC8F6"
                             style="border: 3px solid #1D59B3; margin: 10px;grid-row: 1;">
                       <p class="text-center" style="font-weight: bold;font-size: 20px;color:#1D59B3;margin-top: 10px">
                         7</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#5AC8F6"
                             style="border: 3px solid #1D59B3; margin: 10px;grid-row: 1;">
                       <p class="text-center" style="font-weight: bold;font-size: 20px;color:#1D59B3;margin-top: 10px">
                         9</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#5AC8F6"
                             style="border: 3px solid #1D59B3; margin: 10px;grid-row: 1;">
                       <p class="text-center" style="font-weight: bold;font-size: 20px;color:#1D59B3;margin-top: 10px">
@@ -280,25 +280,25 @@
 
 
                 <v-row justify="end" align="end" style="margin: 10px">
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#E681E0"
                             style="border: 3px solid #B12FA5; margin: 10px;">
                       <p class="text-center" style="font-size: 30px;font-weight: bold">-</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#5FCF43"
                             style="border: 3px solid #138C08; margin: 10px;">
                       <p class="text-center" style="font-size: 20px;margin: 10px;font-weight: bold">+</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#F1BF46"
                             style="border: 3px solid #AA5C00; margin: 10px;">
                       <p class="text-center" style="font-size: 20px;margin-top: 5px;font-weight: bold">(</p>
                     </v-card>
                   </draggable>
-                  <draggable >
+                  <draggable>
                     <v-card width="61" height="45" color="#F1BF46"
                             style="border: 3px solid #AA5C00; margin: 10px;grid-row: 1;">
                       <p class="text-center" style="font-size: 20px;margin-top: 5px;font-weight: bold">)</p>
@@ -312,26 +312,25 @@
             </v-row>
 
             <v-row justify="end" align="end">
-              <v-card  class="box2" color="#EDEDED" style="margin-top: 20px;margin-right: 20px" height="180" width="850">
+              <v-card class="box2" color="#EDEDED" style="margin-top: 20px;margin-right: 20px" height="180" width="850">
 
                 <v-row justify="space-between" align="space-between">
-                  <v-btn class="ma-4"  icon size="x-small">
+                  <v-btn class="ma-4" icon size="x-small">
                     <v-icon>
                       mdi-delete
                     </v-icon>
                   </v-btn>
 
                   <h4 dir="rtl" style="font-size: 16px;font-weight: bold;margin-top: 13px;margin-right: 20px">
-    لطفا فرمول مورد نظر را به روش drag & drop بسازید
+                    لطفا فرمول مورد نظر را به روش drag & drop بسازید
+                  </h4>
 
-  </h4>
                 </v-row>
-                <draggable v-model="tasks.res" group="tasks">
+                <draggable  v-model="tasks.res" group="tasks">
                   <v-row justify="end" align="end" style="margin: 10px">
                     <v-card v-for="(res, i) in tasks.res" :key="i" width="61" height="45" color="#5AC8F6"
-                            style="border: 3px solid #1D59B3; margin: 10px;grid-row: 1;">
-                      <p>{{ res[i] }}</p>
-
+                            style="border: 3px solid #1D59B3; margin: 10px">
+                      <p>{{ res }}</p>
                     </v-card>
                   </v-row>
                 </draggable>
@@ -372,7 +371,7 @@
           </v-btn>
 
         </v-row>
-     </v-card>
+      </v-card>
     </v-col>
   </v-container>
 </template>

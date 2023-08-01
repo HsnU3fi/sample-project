@@ -21,7 +21,7 @@
           rounded
       >
         <h4 dir="rtl" style="margin-right: 10px">۱ پیام دارید</h4>
-        <img src="../../assets/icon/icon (13).png" sizes="80" alt="پیام"/>
+        <img src="../../assets/icon/icon13.png" sizes="80" alt="پیام"/>
       </v-btn>
       <v-btn
           depressed

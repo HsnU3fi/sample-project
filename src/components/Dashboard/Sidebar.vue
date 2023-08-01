@@ -30,7 +30,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (1).png" sizes="80" alt="برنامه"/>
+            <img src="../../assets/icon/Icon1.png" sizes="80" alt="برنامه"/>
             <v-list-item-content>
               <span class="title_sidebar">برنامه</span>
             </v-list-item-content>
@@ -46,7 +46,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (2).png" sizes="80" alt="داشبورد"/>
+            <img src="../../assets/icon/Icon2.png" sizes="80" alt="داشبورد"/>
             <v-list-item-content>
               <span class="title_sidebar">بسته های منتخب</span>
             </v-list-item-content>
@@ -62,7 +62,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (3).png" sizes="80" alt="هشدارها"/>
+            <img src="../../assets/icon/Icon3.png" sizes="80" alt="هشدارها"/>
             <v-list-item-content>
               <span class="title_sidebar">هشدارها</span>
             </v-list-item-content>
@@ -79,7 +79,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (4).png" sizes="80" alt="تست نرم افزار"/>
+            <img src="../../assets/icon/Icon4.png" sizes="80" alt="تست نرم افزار"/>
             <v-list-item-content>
               <span class="title_sidebar">تست نرم افزار</span>
             </v-list-item-content>
@@ -95,7 +95,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (5).png" sizes="80" alt="تست نرم افزار"/>
+            <img src="../../assets/icon/Icon5.png" sizes="80" alt="تست نرم افزار"/>
             <v-list-item-content>
               <span class="title_sidebar">اتصالات کاربری</span>
             </v-list-item-content>
@@ -110,7 +110,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (4).png" sizes="80" alt="برنامه ریزی"/>
+            <img src="../../assets/icon/Icon4.png" sizes="80" alt="برنامه ریزی"/>
             <v-list-item-content>
               <span class="title_sidebar">برنامه ریزی</span>
             </v-list-item-content>
@@ -126,7 +126,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (6).png" sizes="80" alt="برنامه ریزی هوشمند"/>
+            <img src="../../assets/icon/Icon6.png" sizes="80" alt="برنامه ریزی هوشمند"/>
             <v-list-item-content>
               <span class="title_sidebar">برنامه ریزی هوشمند</span>
             </v-list-item-content>
@@ -143,7 +143,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (7).png" sizes="80" alt="مشاهده پروفایل"/>
+            <img src="../../assets/icon/Icon7.png" sizes="80" alt="مشاهده پروفایل"/>
             <v-list-item-content>
               <span class="title_sidebar">مشاهده پروفایل</span>
             </v-list-item-content>
@@ -158,7 +158,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (8).png" sizes="80" alt="پشتیبانی"/>
+            <img src="../../assets/icon/Icon8.png" sizes="80" alt="پشتیبانی"/>
             <v-list-item-content>
               <span class="title_sidebar">پشتیبانی</span>
             </v-list-item-content>
@@ -172,7 +172,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (9).png" sizes="80" alt="راهنما"/>
+            <img src="../../assets/icon/Icon9.png" sizes="80" alt="راهنما"/>
             <v-list-item-content>
               <span class="title_sidebar">راهنما</span>
             </v-list-item-content>
@@ -187,7 +187,7 @@
                 to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (10).png" sizes="80" alt="درباره ما"/>
+            <img src="../../assets/icon/Icon10.png" sizes="80" alt="درباره ما"/>
             <v-list-item-content>
               <span class="title_sidebar">درباره ما</span>
             </v-list-item-content>
@@ -202,7 +202,7 @@
               to="/"
               style="height: 41px"
           >
-            <img src="../../assets/icon/Icon (12).png" sizes="80" alt="خروج"/>
+            <img src="../../assets/icon/Icon12.png" sizes="80" alt="خروج"/>
             <v-list-item-content>
               <span class="title_sidebar">خروج</span>
             </v-list-item-content>
